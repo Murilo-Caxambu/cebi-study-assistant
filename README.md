@@ -1,7 +1,7 @@
 # Cebi - Study Assistant
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bda00122-ddf2-4c5e-964f-9f8e6a88785d alt="Cebi project in action">
+  ![CEBI](https://github.com/user-attachments/assets/bb1cedeb-9c80-427a-8ccd-c05ac7a6158f)
 </p>
 
 ## About the Project

@@ -1,14 +1,12 @@
 # Cebi - Study Assistant
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Cebi+Project+in+Action" alt="Cebi project in action">
+  <img src="https://github.com/user-attachments/assets/bda00122-ddf2-4c5e-964f-9f8e6a88785d alt="Cebi project in action">
 </p>
 
 ## About the Project
 
 **Cebi - Study Assistant** is a personal study assistant designed to optimize your academic journey. Inspired by tools like YPT and Microsoft To-Do, this project aims to help students manage their time and tasks, increasing productivity and organization.
-![CEBI](https://github.com/user-attachments/assets/5ad6d126-38d3-49a9-bc49-73a8e2f7e73d)
-![CEBI](https://github.com/user-attachments/assets/bda00122-ddf2-4c5e-964f-9f8e6a88785d)
 
 Key features include:
 * Study time tracking with a stopwatch and a timer.

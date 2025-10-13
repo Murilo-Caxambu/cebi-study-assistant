@@ -1,0 +1,11 @@
+# Pastas e arquivos de dependências
+node_modules/
+vendor/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log e de cache
+npm-debug.log*
+*.log
+.DS_Store # Mac

@@ -1,7 +1,7 @@
 # Cebi - Study Assistant
 
 <p align="center">
-  ![CEBI](https://github.com/user-attachments/assets/bb1cedeb-9c80-427a-8ccd-c05ac7a6158f)
+![CEBI](https://github.com/user-attachments/assets/fc146e3f-7735-44fc-9ea8-65ab80079ee2)
 </p>
 
 ## About the Project
